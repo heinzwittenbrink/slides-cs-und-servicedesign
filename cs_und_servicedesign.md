@@ -19,7 +19,10 @@ Inhaltsqualität
 
 ##
 
->  HOW DO WE DESIGN SERVICE EXPERIENCES THAT MEET OUR LIQUID EXPECTATIONS … AND INTEGRATE ALL THESE SYSTEMS … ACROSS ALL THESE TOUCHPOINTS … WITHOUT RELYING ON MORE MEDIOCRE CONTENT?
+>  How do we design service experiences that meet our liquid expectations
+>... and integrate all these systems
+>... across all these touchpoints
+>... without relying on more mediocre content?
 
 [Jennifer McCutchen](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/15)
 
@@ -27,16 +30,38 @@ Inhaltsqualität
 
 ## Service-orientiertes Angebot
 
-## [Welcome to GOV.UK](https://www.gov.uk/)
+## {data-background="pics/gov_uk_homepage.png" data-background-size="contain"}
 
-Album: https://goo.gl/photos/tvo8Tbo222d6E4Ly5
+<p class="rights">Quelle Screenshot: [Welcome to GOV.UK](https://www.gov.uk/)</p>
+
+##
+
+> To a user, a service is simple. It’s something that helps them to do something - like learn to drive, buy a house, or become a childminder.
+
+<p class="rights">Quelle: [What we mean by service design - Government Digital Service](https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/)</p>
+
+---
+
+> Government services are sometimes split into tiny pieces: lots of isolated transactions, products, and content provided by different parts of government that need to be used together by a user to achieve their goal.
+
+<p class="rights">Quelle: [What we mean by service design - Government Digital Service](https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/)</p>
+
+---
+
+> Service design is the activity of working out which of these pieces need to fit together,asking how well they meet user needs, and rebuilding them from the ground up so that they do.
+
+<p class="rights">Quelle: [What we mean by service design - Government Digital Service](https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/)</p>
+
 
 ##{data-background="pics/lars_bostrom.jpg" data-background-size="contain"}
 
 ## Digital by default
 
+[![](https://gds.blog.gov.uk/wp-content/uploads/sites/60/2014/04/DBD_Graph-620x214.jpg)](https://www.gov.uk/service-manual/service-standard)
 
-##{data-background="pics/core_of_kanban.jpg" data-background-size="contain"}
+<p class="rights">Quelle: [A year in the making - the Digital by Default Service Standard - Government Digital Service](https://gds.blog.gov.uk/2014/04/01/a-year-in-the-making-the-digital-by-default-service-standard/)</p>
+
+
 
 ##{data-background="pics/were_in_the_business.jpg" data-background-size="contain"}
 
@@ -82,18 +107,15 @@ Quelle: [User needs and revolutions - Government Digital Service](https://gds.bl
 
 # Service Design
 
-##
-
->
+## Was ist Service Design?
 
 > The planning and organization of people, infrastructure, communications and touchpoints needed to facilitate successful services. It strategically addresses the complexity of today’s multitouchpoints in terms of human experiences.
 
 [[Service Design is](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/25)]
 
-##
+##  Service Design Done Well
 
 > “When you have two coﬀee shops right next each other, and each sells the exact same coﬀee at the exact same price, service design is what makes you walk into one and not the other.”
-> SERVICE DESIGN DONE WELL
 
 [SERVICE DESIGN DONE WELL](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/28)
 
@@ -106,6 +128,10 @@ Quelle: [User needs and revolutions - Government Digital Service](https://gds.bl
 Quelle: Brandon Schauer, Adaptive Path [Service blueprint for Service Design panel | You can view it… | Flickr](https://www.flickr.com/photos/brandonschauer/3363169836/)
 
 Rechte: [Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+##{data-background="pics/service_design_blueprint.jpg" data-background-size="contain"}
+
+[Creative Commons — Attribution 2.0 Generic — CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Quelle: [→](https://www.flickr.com/photos/rosenfeldmedia/8461139713/in/photostream/)
 
 ## ANATOMY OF A SERVICE
 
@@ -162,6 +188,30 @@ Discover - Define- Develop - Deliver
 > 4.  IF TIME PERMITS: Focus on one or two areas of opportunity that would improve the experience.
 
 [UNDERSTAND THE USER JOURNEY (15 MIN)](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/75)
+
+## Szenarios
+
+> S C E N A R I O S D E S C R I B E T H E A C T O R ' S C O N T E X T S
+
+> A C T I V I T Y What do they want to do?
+
+> S PA C E Where are they doing it?
+
+> T I M E When is this all happening?
+
+> P E R S O N A L What's their emotional state and needs?
+
+> C H A N N E L Which devices or platforms are used?
+
+I N S P I R E D B Y C E N N Y D D B O W L E S - D E S I G N I N G W I T H C O N T E X T
+
+(Mike Atherton: [Customer Service Design: Content Strategy in the Spaces Between](https://www.slideshare.net/reduxd/designing-customer-service-content-strategy-in-the-spaces-between))
+
+## Empathy Maps
+
+## { data-background="pics/Empathy_Map_Template.png" data-background-size="contain" }
+
+[Empathy Mapping: grok your users | Atlassian Team Playbook](https://www.atlassian.com/team-playbook/plays/empathy-mapping)
 
 # Contentstrategie und Content-Marketing
 
