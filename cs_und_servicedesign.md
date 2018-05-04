@@ -1,7 +1,6 @@
 ---
-title: Content-Strategie und Service Design
+title: Content-Strategie = Service Design mit Inhalten
 author: Heinz Wittenbrink
-    (@heinz)
 date: 2018-05-04
 ---
 
@@ -19,10 +18,13 @@ Inhaltsqualität
 
 ##
 
->  How do we design service experiences that meet our liquid expectations
->... and integrate all these systems
->... across all these touchpoints
->... without relying on more mediocre content?
+>  Wie designen wir Service-Erfahrungen, die unsere flüssigen Erwartungen erfüllen
+>
+>... und alle diese Systeme integrieren
+>
+>... über alle diese Touchpoints
+>
+>... ohne noch mehr mittelmäßige Inhalt zu verlangen?
 
 [Jennifer McCutchen](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/15)
 
@@ -75,7 +77,7 @@ Inhaltsqualität
 
 ![](https://gds.blog.gov.uk/wp-content/uploads/sites/60/2014/04/image.png)
 
-Quelle: [User needs and revolutions - Government Digital Service](https://gds.blog.gov.uk/2014/04/23/user-needs-and-revolutions/) Rechte: [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+<p class="rights">Quelle: [User needs and revolutions - Government Digital Service](https://gds.blog.gov.uk/2014/04/23/user-needs-and-revolutions/) Rechte: [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)</p>
 
 [Agile delivery - Service Manual - GOV.UK](https://www.gov.uk/service-manual/agile-delivery)
 
@@ -109,45 +111,69 @@ Quelle: [User needs and revolutions - Government Digital Service](https://gds.bl
 
 ## Was ist Service Design?
 
-> The planning and organization of people, infrastructure, communications and touchpoints needed to facilitate successful services. It strategically addresses the complexity of today’s multitouchpoints in terms of human experiences.
+> Die Planung und Organisation von Menschen, Infrastruktur, Kommunikation und Touchpoints, die erforderlich ist, um erfolgreiche Services zu ermöglichen. Sie stellt sich strategisch der Komplexität heutiger Multi-Touchpoints in einer Sprache menschlicher Erfahrungen.
 
-[[Service Design is](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/25)]
+<p class="rights">[[Service Design is](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/25)]</p>
 
 ##  Service Design Done Well
 
-> “When you have two coﬀee shops right next each other, and each sells the exact same coﬀee at the exact same price, service design is what makes you walk into one and not the other.”
+> “Wenn zwei Kaffeehäuser direkt nebeneinander geöffnet sind, und jedes von ihnen genau denselben Kaffee zum genau gleichen Preis anbietet, entscheidet das Service-Design, ob du in das eine und nicht in das andere gehst.”
 
-[SERVICE DESIGN DONE WELL](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/28)
+<p class="rights">[SERVICE DESIGN DONE WELL](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/28)<p>
 
 ---
 
 ##{data-background="pics/brandon_schauer_service_blueprint.png" data-background-size="contain"}
 
----
-
-Quelle: Brandon Schauer, Adaptive Path [Service blueprint for Service Design panel | You can view it… | Flickr](https://www.flickr.com/photos/brandonschauer/3363169836/)
-
-Rechte: [Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+<p class="rights">Quelle: Brandon Schauer, Adaptive Path [Service blueprint for Service Design panel | You can view it… | Flickr](https://www.flickr.com/photos/brandonschauer/3363169836/).[Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
 
 ##{data-background="pics/service_design_blueprint.jpg" data-background-size="contain"}
 
-[Creative Commons — Attribution 2.0 Generic — CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Quelle: [→](https://www.flickr.com/photos/rosenfeldmedia/8461139713/in/photostream/)
+<p class="rights">[Creative Commons — Attribution 2.0 Generic — CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Quelle: [→](https://www.flickr.com/photos/rosenfeldmedia/8461139713/in/photostream/)</p>
 
-## ANATOMY OF A SERVICE
+## Service Design Basics
 
-> Content is created and consumed by people, but it is managed through the same complex web of backstage systems and processes. Content is experienced through touchpoints. A piece of content may exist on only only one touchpoint, or it may travel between touchpoints. The sum of this content across all touchpoints comprises a content experience. How well this content works — or doesn’t work — across the entire ecosystem aﬀects the quality of the service experience. The quality of the service experience directly relates to the quality of the brand.
+- Strikte User-Orientierung
+- Mehrere Touchpoints
+- Holistischer Ansatz - Zusammenwirken verschiedener Komponenten
+- Frontend- und Backend-Design
 
-[Content Strategy in Service Design](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/30)
+## Content-Strategie ist Service-Design mit Inhalten
+
+- Content ist unabhängig von bestimmten Touchpoints
+- Content ist immer Bestandteil eines Service
+- Frontent- und Backend-Strategie wirken zusammen
+- Service-Design ist *digital native*, aber nicht *digital only*
+
+## ANATOMie eines SERVICE
+
+> 1. Services leben durch Menschen, aber sie hängen von einem komplexen Gewebe von Backstage-Systemem und -Prozessen ab.
+> 2. Menschen interagieren über Touchpoints mit einem Service. Die Menge aller dieser Touchpoints bildet eine Service-Erfahrung.
+> 3. Wie der Service erfahren wird, bestimmt unmittelbar die Wahrnehmung der Marke.
+
+<p class="rights">[Content Strategy in Service Design](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/30)</p>
 
 ## CONTENT WITHIN A SERVICE
 
-> Services come to life through people, but they’re dependent on a complex web of backstage systems and processes. People interact with a service via touchpoints. The sum of all of these touchpoints comprises a service experience. The perception of the service experience directly relates to the perception of the brand.
+> Inhalt wird von Menschen geschaffen und verwendet. Aber er wird durch dasselbe komplexe Gewebe von Backstage-Systemem und -Prozessen gemanagt. Inhalt wird über Touchpoints wahrgenommen.
 
-[Content Strategy in Service Design](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/30)
+<p class="rights">[Content Strategy in Service Design](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/30)<p>
+
+---
+
+> Ein Stück Inhalt kann an nur einem Touchpoint vorhanden sein, oder es kann sich zwischen Touchpoints bewegen. Die Menge aller dieser Inhalte über alle Touchpoints bildet eine Inhaltserfahrung.
+
+<p class="rights">[Content Strategy in Service Design](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/30)<p>
+---
+
+> Wie gut der Inhalt über das ganze Ökosystem hinweg funktioniert - oder nicht funktioniert - beeinflusst die Qualität der Service-Erfahrung. Wie der Inhalt wahrgenommen wird, bestimmt direkt die Wahrnehmung der Marken.
+
+<p class="rights">[Content Strategy in Service Design](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/30)<p>
+
 
 ##
 
-- Inhalte ermöglicht und vereinfacht Dienste
+- Inhalte ermöglichen, erklären und vereinfachen Dienste
 - Inhalt macht die Erfahrung von Diensten einheitlich und ganzheitlich
 
 ## Entwurfsprozess
@@ -160,68 +186,72 @@ Discover - Define- Develop - Deliver
 ##{ data-background="pics/double_diamond2.png" data-background-size="contain" }
 
 
-# Methoden
+# Design-Werkzeuge
 
+## Szenarios describe the actor's contexts
 
-## Directed Storytelling
+> **Activity** What do they want to do? **Space** Where are they doing it? **Time** When is this all happening? **Personal** What's their emotional state and needs? **Channel** Which devices or platforms are used?
 
-> Assign 1 person in your group to be “storyteller” and 1 person to be the “interviewer.”
-> •  STORYTELLER (1 person): Describe the process of getting to today’s Meetup. Walk through every step in excruciating detail.*
-> •  INTERVIEWER (1 person): Ask the storyteller open-ended questions about the process. Keep the conversation going. (“Yes, And …” may come in handy!)
-> •  NOTETAKERS (Rest of group): Using Post-its, document the details from the story. Keep it to 1 idea per Post-It.
+(Inspired by Cenny D D Bowles - Designing with context)
 
-[DIRECTED STORYTELLING (5 MIN.)](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/73)
-
-## Affinity Diagram
-
-> 1.  One by one, combine each notetaker’s Post-its into one diagram, grouping similar ideas together.
-> 2.  Collaborate as group to agree on clusters and then name the clusters.
-> 3.  Vote on the top three themes from the clusters that could diﬀerentiate the service experience if it was reimagined.
-
-[AFFINITY DIAGRAM (5 MIN.)](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/74)
-
-## Customer Journey Mapping
-
-> 1.  Using the documented research as guidance, identify each stage of the Current State user journey.
-> 2.  Identify the user’s actions, touchpoints, thoughts/emotions and any other relevant stakeholders.
-> 3.  Identify the frontstage content elements -- content needs, content types and formats, channels and key messages.
-> 4.  IF TIME PERMITS: Focus on one or two areas of opportunity that would improve the experience.
-
-[UNDERSTAND THE USER JOURNEY (15 MIN)](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/75)
-
-## Szenarios
-
-> S C E N A R I O S D E S C R I B E T H E A C T O R ' S C O N T E X T S
-
-> A C T I V I T Y What do they want to do?
-
-> S PA C E Where are they doing it?
-
-> T I M E When is this all happening?
-
-> P E R S O N A L What's their emotional state and needs?
-
-> C H A N N E L Which devices or platforms are used?
-
-I N S P I R E D B Y C E N N Y D D B O W L E S - D E S I G N I N G W I T H C O N T E X T
-
-(Mike Atherton: [Customer Service Design: Content Strategy in the Spaces Between](https://www.slideshare.net/reduxd/designing-customer-service-content-strategy-in-the-spaces-between))
+<p class="rights">(Mike Atherton: [Customer Service Design: Content Strategy in the Spaces Between](https://www.slideshare.net/reduxd/designing-customer-service-content-strategy-in-the-spaces-between))</p>
 
 ## Empathy Maps
 
 ## { data-background="pics/Empathy_Map_Template.png" data-background-size="contain" }
 
-[Empathy Mapping: grok your users | Atlassian Team Playbook](https://www.atlassian.com/team-playbook/plays/empathy-mapping)
+<p class="rights">[Empathy Mapping: grok your users | Atlassian Team Playbook](https://www.atlassian.com/team-playbook/plays/empathy-mapping)</p>
+
+
+## Directed Storytelling
+
+> 1. Assign 1 person in your group to be “storyteller” and 1 person to be the “interviewer.”
+>
+> 2. STORYTELLer: Describe the process... Walk through every step in excruciating detail.*
+>
+> 3. INTERVIEWER: Ask the storyteller open-ended questions about the process.
+>
+> 4. NOTETAKERS: Using Post-its, document the details from the story. Keep it to 1 idea per Post-It.
+
+<p class="rights">[DIRECTED STORYTELLING (5 MIN.)](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/73)</p>
+
+## Affinity Diagram
+
+> 1. One by one, combine each notetaker’s Post-its into one diagram, grouping similar ideas together.
+>
+> 2. Collaborate as group to agree on clusters and then name the clusters.
+>
+> 3. Vote on the top three themes from the clusters that could diﬀerentiate the service experience if it was reimagined.
+
+<p class="rights">[AFFINITY DIAGRAM (5 MIN.)](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/74)</p>
+
+## Customer Journey Mapping
+
+> 1. Using the documented research as guidance, identify each stage of the user journey.
+>
+> 2. Identify the user’s actions, touchpoints, thoughts/emotions...
+>
+> 3. Identify the frontstage content elements -- content needs, content types and formats, channels and key messages.
+>
+> 4. IF TIME PERMITS: Focus on one or two areas of opportunity that would improve the experience.
+
+<p class="rights">[UNDERSTAND THE USER JOURNEY (15 MIN)](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/75)</p>
+
+
 
 # Contentstrategie und Content-Marketing
 
-## outside-in statt Inside-out-Marketing
+## Outside-in statt Inside-out-Marketing
 
-> “You listen for the needs of your clients and you build messages that serve those needs, on and in their terms,” said Mathewson, a distinguished technical marketer for search at IBM. “Then you place these messages in convenient places in their buyer journeys – typically search and social media settings. The messages attract them to your owned content marketing properties, where you can more deeply engage them, and ultimately convert them into loyal clients. This engagement initially takes the form of conditioning the conversation towards your brands and differentiating propositions, but ends in a strong relationship built on trust.”
+> “You listen for the needs of your clients and you build messages that serve those needs, on and in their terms,” said Mathewson, a distinguished technical marketer for search at IBM. “Then you place these messages in convenient places in their buyer journeys – typically search and social media settings.
 
-[B2B Best Practices: Content marketing with James Mathewson & Mike Moran - B2B News Network](https://www.b2bnn.com/2016/05/b2b-best-practices-content-marketing-with-james-mathewson-mike-moran/)
+---
 
-##
+> The messages attract them to your owned content marketing properties, where you can more deeply engage them, and ultimately convert them into loyal clients. This engagement initially takes the form of conditioning the conversation towards your brands and differentiating propositions, but ends in a strong relationship built on trust.”
+
+<p class="rights">[B2B Best Practices: Content marketing with James Mathewson & Mike Moran - B2B News Network](https://www.b2bnn.com/2016/05/b2b-best-practices-content-marketing-with-james-mathewson-mike-moran/)</p>
+
+## Marketing und Discovery
 
 - Durch Inhalte werden Services entdeckbar
 - Durch Inhalte werden Services verbreitet
