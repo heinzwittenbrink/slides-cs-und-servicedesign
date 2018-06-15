@@ -1,20 +1,43 @@
 ---
 title: Content-Strategie = Service Design mit Inhalten
-author: Heinz Wittenbrink
+author: Heinz Wittenbrink/@heinz
 date: 2018-05-04
 ---
 
-##
+## Questions:
 
-(Originalinhalte von Mike Atherton, Padma Gillen, Jennifer McCutchen und anderen)
+- Can we use service design to describe content strategy better?
+- Can we understand content strategy as component of content strategy?
+- Can content be understood as a dimension of services?
+
+## Grundlagen:
+
+@[jenmccutchen](https://twitter.com/jenmccutchen): [Content Strategy in Service Design](https://de.slideshare.net/jennicolem/content-strategy-in-service-design/)
+
+@[MikeAtherton](https://twitter.com/mikeatherton): [Customer Service Design: Content Strategy in the Spaces Between](https://de.slideshare.net/reduxd/designing-customer-service-content-strategy-in-the-spaces-between)
 
 ## Im Fokus:
+
+End-to-end-Experiences
 
 Touchpoints
 
 Systeme
 
 Inhaltsqualität
+
+##
+
+> Touchpoints represent fundamental building blocks in the journeys of customers as they interact with a product or service in multiple channels over time.
+
+[Orchestrating Experiences - Rosenfeld Media](https://rosenfeldmedia.com/books/orchestrating-experiences/)
+
+##  {data-background="https://farm1.staticflickr.com/863/39867380770_f9afb0d39c_h.jpg" data-background-size="contain"}
+
+<p class="rights">Quelle: Risdon, Quattlebaum, 
+[Rosenfeldmedia](https://www.flickr.com/photos/rosenfeldmedia/39867380770/in/album-72157668191892598/).[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
+
+
 
 ##
 
@@ -123,13 +146,36 @@ Inhaltsqualität
 
 ---
 
+##{data-background="https://farm1.staticflickr.com/870/41634489422_ecb15fedf4_h.jpg" data-background-size="contain"}
+
+<p class="rights">Quelle: Risdon, Quattlebaum, 
+[Rosenfeldmedia](https://www.flickr.com/photos/rosenfeldmedia/27805555498/in/album-72157668191892598/).[Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
+
+## Service Blueprints
+
 ##{data-background="pics/brandon_schauer_service_blueprint.png" data-background-size="contain"}
 
 <p class="rights">Quelle: Brandon Schauer, Adaptive Path [Service blueprint for Service Design panel | You can view it… | Flickr](https://www.flickr.com/photos/brandonschauer/3363169836/).[Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
 
+##
+
+> Use the service blueprint as a space in which different scenarios can be played out. The blueprint should show the essential parts of the service ecology so that you can track different user journeys through it in a number of “What if?” scenarios.
+
+Andy Polaine, Ben Reason & Lavrans Løvlie: [Service Design: Chapter 6: Developing the Service Proposition :: UXmatters](https://www.uxmatters.com/mt/archives/2013/03/service-design-chapter-6-developing-the-service-proposition.php)
+
 ##{data-background="pics/service_design_blueprint.jpg" data-background-size="contain"}
 
 <p class="rights">[Creative Commons — Attribution 2.0 Generic — CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Quelle: [→](https://www.flickr.com/photos/rosenfeldmedia/8461139713/in/photostream/)</p>
+
+
+## Experience Maps
+
+## {data-background="https://farm1.staticflickr.com/959/39867374570_240d8cf3dc_h.jpg" data-background-size="contain"}
+
+<p class="rights">Quelle: Risdon, Quattlebaum, 
+[Rosenfeldmedia](https://www.flickr.com/photos/rosenfeldmedia/39867374570/in/album-72157668191892598/).[Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
+
+
 
 ## Service Design Basics
 
@@ -140,12 +186,15 @@ Inhaltsqualität
 
 ## Content-Strategie ist Service-Design mit Inhalten
 
-- Content ist unabhängig von bestimmten Touchpoints
+- Content ist ein eigenes Layer
+- Er ist unabhängig von bestimmten Touchpoints
 - Content ist immer Bestandteil eines Service
 - Frontent- und Backend-Strategie wirken zusammen
 - Service-Design ist *digital native*, aber nicht *digital only*
 
-## ANATOMie eines SERVICE
+
+
+## Anatomie eines Service
 
 > 1. Services leben durch Menschen, aber sie hängen von einem komplexen Gewebe von Backstage-Systemem und -Prozessen ab.
 > 2. Menschen interagieren über Touchpoints mit einem Service. Die Menge aller dieser Touchpoints bildet eine Service-Erfahrung.
@@ -257,3 +306,14 @@ Discover - Define- Develop - Deliver
 - Durch Inhalte werden Services verbreitet
 - Inhalte zur Außenkommunikation bauen auf Inhalten als Komponenten eines Service auf
 - Durch Inhalte werden Services verständlich
+
+
+# Summary
+
+## Key points
+
+- User orientation instead of company orientation
+- Independence from channels
+- Strategy understood as holistic view, not as means-to-end relationship
+- No strict separation between frontend and backend strategy
+- Design and research as development of a common understanding
