@@ -1,7 +1,7 @@
 ---
 title: Content-Strategie = Service Design mit Inhalten
 author: Heinz Wittenbrink/@heinz
-date: 2018-05-04
+date: 2018-06-15
 ---
 
 ## Questions:
@@ -317,3 +317,18 @@ Discover - Define- Develop - Deliver
 - Strategy understood as holistic view, not as means-to-end relationship
 - No strict separation between frontend and backend strategy
 - Design and research as development of a common understanding
+
+# End Matter
+
+## Blogpost zur Diskussion
+
+[Content-Strategie als Service Design - Lost and Found](https://wittenbrink.net/lostandfound/content-strategie-als-service-design/)
+
+## Ältere Versionen und Quellcode dieser Präsentation:
+
+https://github.com/heinzwittenbrink/slides-cs-und-servicedesign
+
+## Lizenz:
+
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
